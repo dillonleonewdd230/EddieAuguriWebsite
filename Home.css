@@ -26,3 +26,12 @@ h1{
     color: white;
     text-align: center;
 }
+.navigationMenu{
+    text-align: right;
+}
+li{
+    display: inline;
+}
+a{
+    color: white;
+}
