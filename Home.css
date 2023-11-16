@@ -27,10 +27,16 @@ h1{
     text-align: center;
 }
 .navigationMenu{
+    display:flex;
     text-align: right;
 }
 li{
+    align-self: flex-end;
     display: inline;
+    align-items: flex-end;
+}
+#phoneNumber{
+    color: white;
 }
 a{
     color: white;
