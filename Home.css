@@ -1,0 +1,28 @@
+body{
+    background-color: yellow;
+    align-items: center;
+}
+
+main{
+    background-color: black;
+    text-align: center;
+    width: 50%;
+    color: white;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+.head-div{
+    background-color: black;
+}
+
+.mainParagraph{
+    color: white;
+    width: 600px;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
