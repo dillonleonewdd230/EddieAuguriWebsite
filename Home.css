@@ -1,0 +1,54 @@
+body{
+    background-color: yellow;
+    align-items: center;
+}
+
+main{
+    background-color: black;
+    text-align: center;
+    width: 50%;
+    color: white;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+.head-div{
+    background-color: black;
+    color: black;
+}
+
+.mainParagraph{
+    color: white;
+    width: 600px;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+.navigationMenu{
+    background-color: yellow;
+    width: 15%;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+    display:flex;
+    text-align: right;
+    border-style: solid;
+}
+ul{
+    background-color: yellow;
+    color: black;
+}
+li{
+    align-self: flex-end;
+    display: inline;
+    align-items: flex-end;
+}
+#phoneNumber{
+    color: white;
+}
+a{
+    color: black;
+}
